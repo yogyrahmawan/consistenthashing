@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/yogyrahmawan/consistenthashing.png)](https://travis-ci.com/yogyrahmawan/consistenthashing) [![Coverage Status](https://coveralls.io/repos/github/yogyrahmawan/consistenthashing/badge.svg?branch=master)](https://coveralls.io/github/yogyrahmawan/consistenthashing?branch=master)
+[![Build Status](https://api.travis-ci.com/yogyrahmawan/consistenthashing.svg?branch=master)](https://travis-ci.com/yogyrahmawan/consistenthashing) [![Coverage Status](https://coveralls.io/repos/github/yogyrahmawan/consistenthashing/badge.svg?branch=master)](https://coveralls.io/github/yogyrahmawan/consistenthashing?branch=master)
 ConsistentHasing 
 
 #### Source 
