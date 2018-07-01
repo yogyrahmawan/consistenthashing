@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/yogyrahmawan/consistenthashing.png)](https://travis-ci.com/yogyrahmawan/consistenthashing) [![Coverage Status](https://coveralls.io/repos/github/yogyrahmawan/consistenthashing/badge.svg?branch=master)](https://coveralls.io/github/yogyrahmawan/consistenthashing?branch=master)
 ConsistentHasing 
 
 #### Source 
